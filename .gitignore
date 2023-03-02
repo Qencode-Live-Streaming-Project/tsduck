@@ -67,3 +67,5 @@ vgcore.*
 .vs
 x64
 *.zip
+
+.idea/
